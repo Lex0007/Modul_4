@@ -3,7 +3,7 @@ import java.util.GregorianCalendar;
 import java.util.List;
 import java.util.Locale;
 
-public class JASONExport {
+public class JSONExport {
 
     public void jsonexport(){
         ArrayList<Artikel> artlist = App.artikellisteAusDBDummy();
